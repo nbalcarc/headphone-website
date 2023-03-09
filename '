@@ -1,0 +1,12 @@
+document.write("\
+    <header class=\"navigator\">\
+        <ul class=\"navigator_list\">\
+          <li class=\"navigator_item\">Home</li>\
+          <li class=\"navigator_item\">Catalog</li>\
+          <li class=\"navigator_item\">About</li>\
+          <li class=\"navigator_item\">Contact</li>\
+        </ul>\
+    </header>\
+    ")
+
+
