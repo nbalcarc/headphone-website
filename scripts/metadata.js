@@ -10,9 +10,6 @@ document.write("\
     <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\
     <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\
     <link href=\"https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap\" rel=\"stylesheet\">\
-    <link href=\"https://fonts.google.com/css2?family=Open+Sans:wght@700&display=swap\" rel=\"stylesheet\">\
-    <link href=\"https://fonts.googleapis.com/css2?family=Golos+Text&display=swap\" rel=\"stylesheet\">\
-    <link href=\"https://fonts.googleapis.com/css2?family=Golos+Text&family=Rubik&display=swap\" rel=\"stylesheet\">\
 \
     <!-- CSS -->\
     <link rel=\"stylesheet\" href=\"css/bootstrap.css\">\
