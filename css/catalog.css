@@ -1,0 +1,26 @@
+ul.catalog li {
+    width: 370px; /* adjust the size of the catalog block */
+    display: inline-block; /* this creates the catalog effect */
+    text-align: center; /* align the image to center */
+    background-color:#282828 ; /* background color of each */
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.thumb_text {
+    text-transform: capitalize;
+    color: white;
+    line-height: 60px;
+    font-size: 18px;
+}
+
+ul.catalog img {
+    width: 370px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.catalog {
+    text-align: center;
+}
+
