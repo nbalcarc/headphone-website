@@ -78,7 +78,29 @@ body {
 
 .review {
     margin: auto;
-    max-width: 60rem;
+    max-width: 950px;
+}
+.review p {
+    font-size: 20px;
+}
+.review h {
+    font-size: 30px;
+}
+
+
+.headphone_banner {
+    width: 80%;
+    height: 400px;
+    object-fit: cover;
+    object-position: 25% 50%;
+}
+
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
     
 

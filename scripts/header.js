@@ -12,7 +12,6 @@ document.write("\
     <br>\
     <br>\
     <br>\
-    <br>\
     ")
 
 
