@@ -8,7 +8,8 @@ body {
 }
 
 .navigator {
-    background-color: #466995;
+    /*background-color: #466995;*/
+    background-color: #4e5d94;
     border-bottom: 1px solid #466995;
     position: fixed;
     width: 100%;
@@ -72,6 +73,26 @@ body {
     text-decoration: none;
 }
 .logo:active {
+    text-decoration: none;
+}
+
+
+
+.reviews_button {
+    text-decoration: none;
+    font-size: 45px;
+    color: #FFF;
+}
+.reviews_button:link {
+    text-decoration: none;
+}
+.reviews_buttonvisited {
+    text-decoration: none;
+}
+.reviews_button:hover {
+    text-decoration: none;
+}
+.reviews_button:active {
     text-decoration: none;
 }
 
