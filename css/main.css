@@ -83,6 +83,9 @@ body {
 .review p {
     font-size: 20px;
 }
+.review li {
+    font-size: 20px;
+}
 .review h {
     font-size: 30px;
 }
